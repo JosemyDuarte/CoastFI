@@ -10,7 +10,8 @@ A responsive web application built with SvelteKit to calculate your Coast FI (Co
 ![Styling](https://img.shields.io/badge/Styling-Tailwind%20CSS-cyan)
 
 ## Screenshots
-
+<img width="1568" height="1173" alt="image" src="https://github.com/user-attachments/assets/1aaaf7ff-ab32-4cfa-82d9-65e306eb9951" />
+<img width="1525" height="1105" alt="image" src="https://github.com/user-attachments/assets/be8bcc16-229e-442c-a130-051f64b494c3" />
 
 ## Features
 
