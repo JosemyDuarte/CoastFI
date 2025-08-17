@@ -6,7 +6,6 @@ A responsive web application built with SvelteKit to calculate your Coast FI (Co
 🚀 **[Live Demo](https://josemyduarte.github.io/CoastFI)** | 📊 **[Repository](https://github.com/JosemyDuarte/CoastFI)**
 
 ![Coast FI Calculator](https://img.shields.io/badge/Built%20with-SvelteKit-orange)
-![Deployment](https://img.shields.io/badge/Deploy-Cloudflare%20Pages-blue)
 ![UI Framework](https://img.shields.io/badge/UI-Flowbite%20Svelte-purple)
 ![Styling](https://img.shields.io/badge/Styling-Tailwind%20CSS-cyan)
 
@@ -134,7 +133,7 @@ The repository includes a GitHub Actions workflow that automatically builds and 
    - Set Source to "GitHub Actions"
 3. **Deploy**: Push to `main` branch triggers automatic deployment
 
-**Your app will be available at**: `https://yourusername.github.io/coast-fi-calculator/`
+**Your app will be available at**: `https://yourusername.github.io/CoastFI/`
 
 ### 📋 Manual Deployment
 
