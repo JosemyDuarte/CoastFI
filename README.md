@@ -43,7 +43,7 @@ Coast FI (Coast Financial Independence) is the amount of money you need to have 
 
 ### Prerequisites
 
-- Node.js 18+ installed
+- Node.js 20+ installed
 - npm, pnpm, or yarn package manager
 
 ### Installation
